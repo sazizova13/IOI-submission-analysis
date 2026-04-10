@@ -1,7 +1,7 @@
 # IOI-submission-analysis
-Empirical analysis of IOI coding behavior using AST-based structural fingerprinting and code evolution tracking.
+Empirical analysis of IOI coding behavior using AST-based structural fingerprinting and code and performance evolution tracking.
 
-## IOI Code and Performance Evolution Analyzer
+## Code and Performance Evolution Analyzer
 
 A Streamlit dashboard for analyzing how contestants' source code evolves across consecutive submissions in IOI competitions.
 
